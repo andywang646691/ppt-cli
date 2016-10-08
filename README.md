@@ -1,5 +1,6 @@
 # ppt-cli
-a slides framework using makrdown
+
+用markdown写ppt的node工具
 
 ## Usage
 
